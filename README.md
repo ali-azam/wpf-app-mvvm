@@ -1,4 +1,6 @@
-# design-pattern
-Learn C# Design Patterns by doing a project
+# wpf-app-mvvm
+WPF Application with MVVM (Windows Presentation Foundation)
 
-The Best Way of learning design patterns
+Same application is developed by using windows & wpf CodeBehind 
+
+WPF App using declarative (xaml) programming
